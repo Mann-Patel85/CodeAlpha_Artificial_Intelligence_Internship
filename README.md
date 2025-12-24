@@ -1,5 +1,5 @@
 # CodeAlpha Artificial Intelligence Internship
-Author: [Your Name]
+Mann Patel
 Duration: Dec 2025
 
 ## Task List
